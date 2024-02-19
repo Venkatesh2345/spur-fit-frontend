@@ -81,7 +81,7 @@ const SelfImprovement = () => {
               Wrong with self improvement & how we&apos;re fixing it.
             </h1>
           </div>
-          <div className="text-5xl pb-3 font-bold text-black">
+          <div className="text-5xl pb-3 mb-5 font-bold text-black">
             Self Improvement. Ugh.
           </div>
         </motion.div>
