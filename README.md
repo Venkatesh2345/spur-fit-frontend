@@ -1,5 +1,5 @@
 🌐 **Explore My Responsive Website!**
-<!-- [Visit the live site here](https://venkatesh-portfolio-24.web.app/) -->
+[Visit the live site here](https://spur-fit.web.app/)
 
 #  Website
 
@@ -28,5 +28,5 @@ Discover the highlights that set this project:
 
 
 🚀 **Experience it Yourself!**
-<!-- Feel the live version of the portfolio resonate with my skills and projects. [Explore Now!](https://venkatesh-portfolio-24.web.app/) -->
+Feel the live version of the website. [Explore Now!](https://spur-fit.web.app/)
 
